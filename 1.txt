@@ -1,0 +1,69 @@
+Word Nedir?Ne işe yarar?
+
+Kelime işlemci programı
+Yazı yazmak,tez yazmak,teklif dokümanı oluşturmak,kitap yazmak ..için kullanılabilir.
+Eklentilerin üzerine çift tıklayarak menüleri kapatabilirsin.
+
+=rand(4) yazıp enter a basarsan rastgele 4 paragraflık metin oluşturur.
+Belge Düzenlemek:
+Madde imleri sıralama,hiyerarşi gibi metinleri anlatmak için listelemek için kullandığımız simgelerdir.
+Madde imlerinde sıralama hiyer
+arşi varsa tab tuşuna basarak diğer 
+madde imini getirebilirsin.
+shift+tab ya da girintiyi azalt tuşuna basarsan diğer maddeye geçebilirsin.
+
+Bir kelimenin yerine başka bir eş anlamlı kelime kullanmak istersek
+Gözden geçir-> Eş Anlamlılar bölümü tıkla. Bu kelimeye eşdeğer kelimeler çıkacak.
+
+Resmin üzerine tıkla biçimden->kırp-> şekle göre kısmını işaretlersen istediğin şekle göre kırpar.
+
+iki resmin üst üste getirip bir resim yapmak için bir resmi diğerinin
+üzerine getir->ctrl  basılı tup iki resmi de seç->Sağ tıkla->Gruplandır
+
+Smart Art a basarak hiyerarşik düzenleri listelemeleri gösterebilirsin
+
+
+Grafikler:
+Çubuk ve sütun grafik birden fazla verinin birbiriyle karşılaştırılması 
+için kullandığımız, çizgi grafik bir verinin zaman içinde değişimini
+incelediğimiz,pasta grafik ise bir bütünün parçalarını ifade etmek için
+kullanacağımız grafik türüdür.
+
+Grafik verilerine tıklayarak istemediğin veriyi kaldırabilirsin.
+
+EKLE->SAYFA NUMARASI şeklinde tıklarsan dokümanda sayfa numaralarını ekleyebilirsin
+üst bilgi alt bilgiden ->secenekleri işaretleyerek ilk sayfada farklıyı secerek
+kapak sayfasında sayfa numaralarını göstermeyebilirsin.
+
+Tablolaya satır eklemek için tab tuşuna basarak satır ekleyebilirsin.
+Özel bir tablo çizeceksen tablo çiz e basarak kendi tablonu oluşturabilirsin.
+
+Filigram örneğin bir şirketin ismini sayfanın arkasında gösterebilirsin.
+
+Sayfa düzeninden sayfanın kenarlıklarını düzeltebilirsin.
+
+KÖPRÜ HYPERLINK
+köprüler doküman içindeki başka bir noktaya gidilmesi ya da bir sayfaya 
+gitmeye yarayabilir.
+
+Doküman içinde köprü eklemek için yazıyı yaz->cümleyi seç->ekle ye bas->bağlantılar->köprü ekle->bu belgeye yerleştir
+bu şekilde cümlenin üzerine ctrl+sol mouse tıkladığında göndereceğin yere gidebilirsin.
+
+Tdk  sitesine  buradan  ulaşabilirsiniz. Bu şekilde web sayfası linkini ekleyerek web sitesine gönderebilirsin.
+Cümlelere açıklama eklemek için gözden geçir->açıklamalar a tıkla
+İstediğin açıklamayı yazbilirsin.
+
+Resim yazısı eklemek için kopyalacağın metni seç kopyala.
+Resmin üzerine tıkla.Başvurular->Resim yazısı ekle.Kopyaladığın metni yapıştır->Tamam
+Bu şekilde istediğin resimler üzerinde yapabilirsin.
+
+Daha sonrasında bunları şekiller tablosu ekle-> kısmını seçerek seçtiğin yerleri sıralayabilirsin
+
+Bir cümleye dipnot ekleyeceksen cümleni seç->Başvurular->Dipnot ekle
+Son not ekle'ye basarak dokümanın en sonuna not ekleyebilirsin.
+
+İÇİNDEKİLER tablosu oluşturmak:
+İlk başlığa girişten Başlık 1 ekle.Alt başlığa Başlık 2 de 
+bu şekilde alt başlıklara başlık 2 ana başlıklara başlık 1 diyeceksin 
+Daha sonra Başvurular kısmında içindekiler kısmında otomatik ekleye bas 
+İçindekiler tablosu oluşuyor.
